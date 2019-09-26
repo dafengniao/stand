@@ -4,7 +4,7 @@
 
 手动修改package.json
 "webpack": "^4.5.0",
-"webpack-bundle-analyzer": "^2.9.0",
+"webpack-bundle-analyzer": "^3.5.1",
 "webpack-cli": "^3.1.0",
 "webpack-dev-server": "^3.1.4",
 "webpack-merge": "^4.1.0"
