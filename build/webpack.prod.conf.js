@@ -83,6 +83,7 @@ const webpackConfig = merge(baseWebpackConfig, {
     // split vendor js into its own file
     new webpack.optimize.SplitChunksPlugin({
       cacheGroups: {
+          // default: false
           default: {
               minChunks: 2,
               priority: -20,
